@@ -1,4 +1,7 @@
 hell
 Hello again
+<<<<<<< HEAD
 changed by master
+=======
 changed by dev
+>>>>>>> dev
