@@ -1,7 +1,10 @@
 hell
 Hello again
-<<<<<<< HEAD
 changed by master
-=======
 changed by dev
->>>>>>> dev
+
+<<<<<<< HEAD
+changed by dev again
+=======
+made changes on dev2
+>>>>>>> dev2
