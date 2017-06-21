@@ -1,0 +1,13 @@
+hell
+Hello again
+changed by master
+changed by dev
+<<<<<<< HEAD:1.txt.orig
+
+<<<<<<< HEAD
+changed by dev again
+=======
+made changes on dev2
+>>>>>>> dev2
+=======
+>>>>>>> origin/dev:1_.txt
